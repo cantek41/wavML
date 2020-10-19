@@ -1,0 +1,36 @@
+QLabel#mesajAlani{
+    font-family: Siemens Sans SC;
+    font-size: 16px;
+}
+
+QGroupBox {
+    border: 1px solid red;
+    height: 100px;
+    font-family: Siemens Sans SC;
+    font-size: 20px;
+}
+
+QRadioButton {
+    font-family: Siemens Sans SC;
+    font-size: 16px;
+}
+
+QLabel#predict {
+    font-family: Siemens Sans SC;
+    font-size: 14px;
+    color: red;
+    margin-left:10px;
+    
+}
+QLabel#cordTitle {
+    margin-Top:10px;
+    font-family: Siemens Sans SC;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QLabel#predictT {
+    font-family: Siemens Sans SC;
+    font-size: 12px;
+}
+

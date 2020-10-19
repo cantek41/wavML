@@ -7,6 +7,9 @@ vocal cords from personal sound, using Machine Learning.
 ["Gender"]= #1-male, 0-female
 ["Age"]=#1-young, 0-adult
 
+<img src="https://github.com/cantek41/wavML/blob/master/image/app.PNG"  width="200">
+
+
 # How to work
 
 cmd --> python wavToWeigth.py wavfile gender age
@@ -43,6 +46,12 @@ joblib
 sklearn
 
 numpy
+
+PyQt5
+
+scipy
+
+pip install sounddevice
 
 # References
 
